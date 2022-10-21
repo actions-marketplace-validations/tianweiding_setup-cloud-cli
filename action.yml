@@ -1,6 +1,6 @@
-name: 'Configure Cloud CLI'
-description: 'Configure Cloud CLI, AWS, Aliyun, etc.'
-author: 'GlobeFishNG'
+name: 'Configure CLOUD ENV'
+description: 'Configure Cloud ENV, AWS, Aliyun, etc.'
+author: 'tianweiding'
 branding: 
   icon: cloud
   color: yellow
